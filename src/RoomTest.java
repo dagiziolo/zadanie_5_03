@@ -9,7 +9,7 @@ public class RoomTest {
         room1.setTemperature(scan.nextInt());
 
         System.out.println(room1.decrease());
-        System.out.println(room1.getTemperature());
+//        System.out.println(room1.getTemperature()); do sprawdzeń na testach
 
     }
 }
